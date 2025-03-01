@@ -1,0 +1,8 @@
+.alingment{
+    color: rgb(143, 146, 146);
+    align-items: center;
+}
+.pics{
+    <img src="..." class="rounded float-start" alt="...">
+<img src="..." class="rounded float-end" alt="...">
+}
